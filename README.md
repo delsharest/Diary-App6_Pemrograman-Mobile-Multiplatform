@@ -1,8 +1,8 @@
 # Praktikum 6 — Diary App dengan React Hooks
 
-**Nama** · Fadhla Rahayu Alfairuz  
-**NIM** · 2430511007  
-**Mata kuliah** · Pemrograman Mobile Multiplatform
+**Nama**: Fadhla Rahayu Alfairuz  
+**NIM**: 2430511007  
+**Mata kuliah**: Pemrograman Mobile Multiplatform
 
 Diary App adalah aplikasi buku harian dengan React Native dan Expo Router. Pengguna dapat menulis diary, mencari dan menyaring entri berdasarkan mood, serta menyimpan entri yang disukai di tab Favorites.
 
