@@ -1,7 +1,7 @@
 # Praktikum 6 — Diary App dengan React Hooks
 
-**Nama** · [Fadhla Rahayu Alfairuz]  
-**NIM** · [2430511007]  
+**Nama** · Fadhla Rahayu Alfairuz  
+**NIM** · 2430511007  
 **Mata kuliah** · Pemrograman Mobile Multiplatform
 
 Diary App adalah aplikasi buku harian dengan React Native dan Expo Router. Pengguna dapat menulis diary, mencari dan menyaring entri berdasarkan mood, serta menyimpan entri yang disukai di tab Favorites.
@@ -49,34 +49,34 @@ Simpan enam screenshot di folder `screenshots/` pada tingkat yang sama dengan RE
 
 Daftar diary dan pilihan filter mood.
 
-![Home menampilkan daftar diary dan pilihan mood](./screenshots/01-home.png)
+![Home menampilkan daftar diary dan pilihan mood](./screenshots/screenshots01-home.png)
 
 ### 2. Search
 
 Contoh pengujian dengan mood **Tenang** dan pencarian `pagi`. Hasil harus memenuhi kedua kriteria.
 
-![Search dengan kata pencarian dan mood aktif](./screenshots/02-search.png)
+![Search dengan kata pencarian dan mood aktif](./screenshots/screenshots02-search.png)
 
 ### 3. Detail
 
 Isi diary dan status **Disukai** setelah ikon hati ditekan.
 
-![Detail diary dengan status Disukai](./screenshots/03-detail.png)
+![Detail diary dengan status Disukai](./screenshots/screenshots03-detail.png)
 
 ### 4. Create
 
 Form untuk mengisi judul, tanggal, isi diary, dan memilih mood.
 
-![Form Tambah Diary](./screenshots/04-create.png)
+![Form Tambah Diary](./screenshots/screenshots04-create.png)
 
 ### 5. Settings
 
 Status Compact Mode setelah switch diaktifkan.
 
-![Settings dengan status Compact Mode aktif](./screenshots/05-settings.png)
+![Settings dengan status Compact Mode aktif](./screenshots/screenshots05-settings.png)
 
 ### 6. Favorites
 
 Daftar diary yang diberi Like. Saat Like dilepas di tab ini, entri keluar dari Favorites dan ikon hati pada Home dan Detail ikut berubah.
 
-![Favorites menampilkan diary yang disukai](./screenshots/06-favorites.png)
+![Favorites menampilkan diary yang disukai](./screenshots/screenshots06-favorites.png)
